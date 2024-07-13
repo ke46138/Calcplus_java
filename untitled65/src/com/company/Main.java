@@ -3,7 +3,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
-    System.out.println("================Конвертер валют 1.0.0 by Kirill Ekaterinin================");
+    System.out.println("=====================Конвертер валют 1.0.0 by ke46138=====================");
     System.out.println("-----------------Может конвертировать Рубли в Доллары(США)----------------");
     System.out.println("---------------------Может конвертировать Рубли в Евро--------------------");
     System.out.println("-----------------Может конвертировать Доллары(США) в Рубли----------------");
