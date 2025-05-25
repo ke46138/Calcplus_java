@@ -1,4 +1,7 @@
-# Calcplus_java
-IntelliJ IDEA project.
+# Calcplus
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ke46138/Calcplus_java?style=flat-square)
 
-Support only Russian language.
+Демка ООП, которую я написал когда учился на java разработчика.
+
+> [!NOTE]
+> Intellij IDEA проект.
